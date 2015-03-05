@@ -2,9 +2,9 @@
 
 Data Science Experiment 2 
 
-**Heroic_Social_Network_Tinkering.py** is Work in Progress
+**Heroic_Social_Network_Tinkering.py** is *Work in Progress*
 
-Began with **Social_Graphing_BabySteps.py** to experiment with graphing social networks 
+*Began with* **Social_Graphing_BabySteps.py** *to experiment with graphing social networks.*
 
 Project Goals: 
 
