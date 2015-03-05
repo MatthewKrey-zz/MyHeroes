@@ -22,3 +22,4 @@ Project Goals:
 
 # Toolkit + Credits 
 
+Practical Data Science Cookbook: 89 hands-on recipes to help you complete real-world data science projects in R and Python by Tony Ojeda, Sean Patrick Murphy, Benjamin Bengfort and Abhijit Dasgupta. This is an excellent resource for beginning in the world of Data Science with R and Python and I am very thankful to these guys for putting together a fantastic book!
