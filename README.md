@@ -2,6 +2,10 @@
 
 Data Science Experiment 2 
 
+**Heroic_Social_Network_Tinkering.py** is Work in Progress
+
+Began with **Social_Graphing_BabySteps.py** to experiment with graphing social networks 
+
 Project Goals: 
 
 1) Importing, Preparing, Exploring Social Networks in Python
